@@ -59,9 +59,9 @@ Step 6: 可選 - 深度分析
 | Skill | 用途 | GitHub/Source |
 |-------|------|---------------|
 | **Polymarket Analysis** | 預測市場搜尋與分析 | ClawHub: `polymarket-analysis` |
-| **Macro Liquidity** | 宏觀流動性監控 | Day1Global (需自行安裝) |
+| **Macro Liquidity** | 宏觀流動性監控 | Day1Global (需自行安裝) https://github.com/star23/Day1Global-Skills |
 | **Valuation Calculator** | PEG + DCF 估值 | https://github.com/arbiger/valuation-calculator |
-| **Tech Earnings Deepdive** | 深度財報分析 | Day1Global (需自行安裝) |
+| **Tech Earnings Deepdive** | 深度財報分析 | Day1Global (需自行安裝) https://github.com/star23/Day1Global-Skills |
 
 ## 安裝需求
 
